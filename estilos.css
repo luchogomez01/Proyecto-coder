@@ -9,7 +9,7 @@ header{
     justify-content: start;
 }
 main{
-    background: linear-gradient(to top, #F18D9E, #E6D72A)
+    background: linear-gradient(to bottom,#E6D72A,#F18D9E);
     width: 100%;
     display: grid;
     grid-template-columns: 1fr 1fr;
