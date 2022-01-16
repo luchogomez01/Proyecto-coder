@@ -1,0 +1,25 @@
+{"Disciplinas": 
+[
+    {
+        "nombre": "tela",
+        "Turno" : "Noche de 19 a 20.30hs",
+        "dia" : "Lunes",
+        "precio": 6000
+    },
+    {"nombre": "Hula",
+     "Turno" : "Noche de 19 a 20.30hs",
+     "dia" : "Martes",
+     "precio": 5000
+    },
+    {"nombre": "Elongacion",
+     "Turno" : "Noche de 19 a 20.30hs",
+     "dia" : "Miercoles",
+     "precio": 3000
+    },
+    {"nombre": "Trapecio",
+     "Turno" : "Noche de 19 a 20.30hs",
+     "dia" : "Viernes",
+     "precio": 7000
+    }
+]
+}
